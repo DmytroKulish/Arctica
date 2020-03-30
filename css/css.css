@@ -4,6 +4,9 @@ body{
 h1{
   margin:0px;
 }
+p{
+  font-size: 0.9rem;
+}
 
 .background-img{
   font-family: "Mukta", "Helvetica Neue";
@@ -62,6 +65,7 @@ padding:0px;
 }
 
 #card{
+
 
 }
 .col{
